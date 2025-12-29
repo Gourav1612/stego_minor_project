@@ -39,3 +39,22 @@ Standard steganography is often vulnerable to simple LSB analysis. STEGO-KMS mit
    cd stego_minor_project
    python3 -m streamlit run app.py
 
+## Live Deployment
+
+The application is publicly deployed and accessible at the following link:
+**Live App:** https://stegominorproject.streamlit.app/
+
+---
+
+## Team Contribution
+
+| S. No. | Team Member Name     | Contribution                                                                 |
+|------:|---------------------|-------------------------------------------------------------------------------|
+| 1     | **Gourav Balchandani** | Project lead responsible for core application development, encryption and steganography implementation, Streamlit UI design, performance optimization, debugging, and overall project coordination. |
+| 2     | **Mahi Jain**        | Responsible for project documentation, report writing, PowerPoint preparation, formatting, and ensuring academic presentation standards. |
+| 3     | **Harshit Kumawat**  | Contributed to research and analysis of steganography techniques, functional testing of encoding and decoding workflows, validation of security processes, and implementation support. |
+
+---
+
+
+
