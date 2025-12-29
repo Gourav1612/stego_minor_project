@@ -37,6 +37,7 @@ Standard steganography is often vulnerable to simple LSB analysis. STEGO-KMS mit
    ```bash
    git clone https://github.com/Gourav1612/stego_minor_project
    cd stego_minor_project
+   pip install -r requirements.txt
    python3 -m streamlit run app.py
 
 ## Live Deployment
@@ -56,6 +57,7 @@ The application is publicly deployed and accessible at the following link:
 | 3     | **Harshit Kumawat**  | Contributed to research and analysis of steganography techniques, functional testing of encoding and decoding workflows, validation of security processes, and implementation support. |
 
 ---
+
 
 
 
