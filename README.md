@@ -42,7 +42,7 @@ Standard steganography is often vulnerable to simple LSB analysis. STEGO-KMS mit
 ## Live Deployment
 
 The application is publicly deployed and accessible at the following link:
-**Live App:** https://stegominorproject.streamlit.app/
+**Live App:**  https://stegominorproject.streamlit.app/
 
 ---
 
@@ -55,6 +55,7 @@ The application is publicly deployed and accessible at the following link:
 | 3     | **Harshit Kumawat**  | Contributed to research and analysis of steganography techniques, functional testing of encoding and decoding workflows, validation of security processes, and implementation support. |
 
 ---
+
 
 
 
