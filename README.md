@@ -37,3 +37,5 @@ Standard steganography is often vulnerable to simple LSB analysis. STEGO-KMS mit
    ```bash
    git clone https://github.com/Gourav1612/stego_minor_project
    cd stego_minor_project
+   python3 -m streamlit run app.py
+
