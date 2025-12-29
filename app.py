@@ -25,7 +25,7 @@ def secure_decrypt(cipher, password):
 # --- UI CONFIGURATION ---
 st.set_page_config(page_title="STAGNOGRAPHY", layout="wide")
 
-# CSS - Changed to Gold (#D4AF37) and Charcoal (#121212)
+# CSS
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
@@ -110,7 +110,7 @@ st.markdown("""
     </div>
     """, unsafe_allow_html=True)
 
-# --- TABS & LOGIC (SAME AS YOUR ORIGINAL) ---
+# --- TABS & LOGIC ---
 tab_enc, tab_dec = st.tabs(["INJECT_PAYLOAD", "EXTRACT_PAYLOAD"])
 
 with tab_enc:
